@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A9E630B8-CDE6-4D81-BE51-3A766555B982}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Variables_operaciones.ValorAproximadoRedondeo</StartupObject>
+    <StartupObject>Variables_operaciones.Aritmetica</StartupObject>
     <RootNamespace>Variables_operaciones</RootNamespace>
     <AssemblyName>Variables_operaciones</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -73,6 +73,7 @@
     <Compile Include="Concatenacion.vb" />
     <Compile Include="DiasFaltantes.vb" />
     <Compile Include="Ecuacion.vb" />
+    <Compile Include="InteresesProducidos.vb" />
     <Compile Include="LeerTiempo.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
