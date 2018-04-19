@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A9E630B8-CDE6-4D81-BE51-3A766555B982}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Variables_operaciones.SumaFecha</StartupObject>
+    <StartupObject>Variables_operaciones.ValorAproximadoRedondeo</StartupObject>
     <RootNamespace>Variables_operaciones</RootNamespace>
     <AssemblyName>Variables_operaciones</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -73,7 +73,7 @@
     <Compile Include="Concatenacion.vb" />
     <Compile Include="DiasFaltantes.vb" />
     <Compile Include="Ecuacion.vb" />
-    <Compile Include="Module1.vb" />
+    <Compile Include="LeerTiempo.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -90,7 +90,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <Compile Include="NumeroMayor.vb" />
-    <Compile Include="NumeroReal.vb" />
+    <Compile Include="ValorAproximadoRedondeo.vb" />
     <Compile Include="Semana.vb" />
     <Compile Include="SumaFecha.vb" />
     <Compile Include="SumatoriaMedia.vb" />
