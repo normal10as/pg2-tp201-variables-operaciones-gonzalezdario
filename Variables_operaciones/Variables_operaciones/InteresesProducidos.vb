@@ -14,6 +14,6 @@
 
         Dim InteresesProducidos As Single = (monto * interes * dias) / (360 * 100)
 
-        Console.WriteLine("Intereses Producidos | (monto * interes * dias) / (360 * 100) = " & InteresesProducidos)
+        Console.WriteLine("Intereses Producidos | (monto * interes anual * dias) / (360 * 100) = " & InteresesProducidos)
     End Sub
 End Module

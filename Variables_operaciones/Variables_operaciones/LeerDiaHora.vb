@@ -1,4 +1,4 @@
-﻿Module LeerTiempo
+﻿Module LeerDiaHora
     Dim hora As Integer
     Dim dia As Integer
     Sub Main()
