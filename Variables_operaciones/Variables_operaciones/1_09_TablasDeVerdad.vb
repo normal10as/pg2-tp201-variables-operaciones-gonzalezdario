@@ -1,6 +1,6 @@
 ﻿Module TablasDeVerdad
-    Dim a As Boolean = True
-    Dim b As Boolean = False
+    Const a As Boolean = True
+    Const b As Boolean = False
 
     Sub Main()
         Console.WriteLine("Compuerta AND------")
